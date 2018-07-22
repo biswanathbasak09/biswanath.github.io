@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/biswanathbasak09/biswanath.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files. It is called doggo.
+You can use the [editor on GitHub](https://github.com/biswanathbasak09/biswanath.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files. 
+
+**Doggo and pupper.**
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
